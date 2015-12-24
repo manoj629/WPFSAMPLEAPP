@@ -11,8 +11,6 @@ namespace TestSampleApplication
         [TestMethod]
         public void GetEmpBasicSalaryTestMethod()
         {
-
-
             try
             {
                 WpfSampleApplication.MainWindow mainWindow = new MainWindow();
