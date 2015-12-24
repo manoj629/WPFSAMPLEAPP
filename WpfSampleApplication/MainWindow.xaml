@@ -1,0 +1,33 @@
+﻿<Window x:Class="WpfSampleApplication.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        Title="MainWindow" Height="350" Width="525">
+    <Grid>
+        <Grid>
+            <Grid.RowDefinitions>
+                <RowDefinition Height="20*"/>
+                <RowDefinition Height="20*"/>
+                <RowDefinition Height="20*"/>
+                <RowDefinition Height="20*"/>
+                <RowDefinition Height="20*"/>
+            </Grid.RowDefinitions>
+            <Grid.ColumnDefinitions>
+                <ColumnDefinition/>
+                <ColumnDefinition/>
+                <ColumnDefinition/>
+            </Grid.ColumnDefinitions>
+            <Label Content="Select Employee:" HorizontalAlignment="Center" VerticalAlignment="Center"/>
+            <ComboBox x:Name="EmpComboBox" Grid.Column="1" Height="30" IsEditable="True" IsReadOnly="True"
+                     SelectionChanged="EmpComboBox_SelectionChanged_1" DisplayMemberPath="Name" />
+            <Button Content="Get Employee Details" Grid.Row="0" Grid.Column="2" Height="30" Width="140" Click="GetEmployeeDetails_Click"/>
+            <Label Content="Department" HorizontalAlignment="Center" VerticalAlignment="Center" Grid.Row="1"/>
+            <TextBox x:Name="DepartmentTextBox" IsReadOnly="True" Grid.Row="1" Grid.Column="1" Height="30"/>
+            <Label Content="Basic Salary" HorizontalAlignment="Center" VerticalAlignment="Center" Grid.Row="2"/>
+            <TextBox x:Name="BSalaryTextBox" IsReadOnly="True" Grid.Row="2" Grid.Column="1" Height="30"/>
+            <Button Content="Calculate Gross Salary" Grid.Row="3" Grid.Column="1" Height="30" Width="140" Click="CalculateGrossSalary_Click"/>
+            <Label Content="Gross Salary" HorizontalAlignment="Center" VerticalAlignment="Center" Grid.Row="4"/>
+            <TextBox x:Name="GrossSalaryTextBox" IsReadOnly="True" Grid.Row="4" Grid.Column="1" Height="30"/>
+            <Button Content="Cancel" Grid.Row="4" Grid.Column="2" Height="30" Width="80" IsCancel="True" Click="CloseWindow"/>
+        </Grid>
+    </Grid>
+</Window>

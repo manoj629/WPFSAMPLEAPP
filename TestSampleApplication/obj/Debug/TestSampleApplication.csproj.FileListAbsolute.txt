@@ -1,0 +1,7 @@
+C:\Users\sudhanshu_mathur01\documents\visual studio 2012\Projects\WpfSampleApplication\TestSampleApplication\obj\Debug\TestSampleApplication.csprojResolveAssemblyReference.cache
+C:\Users\sudhanshu_mathur01\documents\visual studio 2012\Projects\WpfSampleApplication\TestSampleApplication\bin\Debug\TestSampleApplication.dll
+C:\Users\sudhanshu_mathur01\documents\visual studio 2012\Projects\WpfSampleApplication\TestSampleApplication\bin\Debug\TestSampleApplication.pdb
+C:\Users\sudhanshu_mathur01\documents\visual studio 2012\Projects\WpfSampleApplication\TestSampleApplication\bin\Debug\WpfSampleApplication.exe
+C:\Users\sudhanshu_mathur01\documents\visual studio 2012\Projects\WpfSampleApplication\TestSampleApplication\bin\Debug\WpfSampleApplication.pdb
+C:\Users\sudhanshu_mathur01\documents\visual studio 2012\Projects\WpfSampleApplication\TestSampleApplication\obj\Debug\TestSampleApplication.dll
+C:\Users\sudhanshu_mathur01\documents\visual studio 2012\Projects\WpfSampleApplication\TestSampleApplication\obj\Debug\TestSampleApplication.pdb

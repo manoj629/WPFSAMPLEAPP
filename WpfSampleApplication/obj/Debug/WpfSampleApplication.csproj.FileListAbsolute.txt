@@ -1,0 +1,16 @@
+c:\users\sudhanshu_mathur01\documents\visual studio 2012\Projects\WpfSampleApplication\WpfSampleApplication\bin\Debug\WpfSampleApplication.exe.config
+C:\Users\sudhanshu_mathur01\documents\visual studio 2012\Projects\WpfSampleApplication\WpfSampleApplication\bin\Debug\WpfSampleApplication.exe
+C:\Users\sudhanshu_mathur01\documents\visual studio 2012\Projects\WpfSampleApplication\WpfSampleApplication\bin\Debug\WpfSampleApplication.pdb
+C:\Users\sudhanshu_mathur01\documents\visual studio 2012\Projects\WpfSampleApplication\WpfSampleApplication\obj\Debug\WpfSampleApplication.csprojResolveAssemblyReference.cache
+C:\Users\sudhanshu_mathur01\documents\visual studio 2012\Projects\WpfSampleApplication\WpfSampleApplication\obj\Debug\MainWindow.baml
+C:\Users\sudhanshu_mathur01\documents\visual studio 2012\Projects\WpfSampleApplication\WpfSampleApplication\obj\Debug\MainWindow.g.cs
+C:\Users\sudhanshu_mathur01\documents\visual studio 2012\Projects\WpfSampleApplication\WpfSampleApplication\obj\Debug\App.g.cs
+C:\Users\sudhanshu_mathur01\documents\visual studio 2012\Projects\WpfSampleApplication\WpfSampleApplication\obj\Debug\WpfSampleApplication_MarkupCompile.cache
+C:\Users\sudhanshu_mathur01\documents\visual studio 2012\Projects\WpfSampleApplication\WpfSampleApplication\obj\Debug\WpfSampleApplication.g.resources
+C:\Users\sudhanshu_mathur01\documents\visual studio 2012\Projects\WpfSampleApplication\WpfSampleApplication\obj\Debug\WpfSampleApplication.Properties.Resources.resources
+C:\Users\sudhanshu_mathur01\documents\visual studio 2012\Projects\WpfSampleApplication\WpfSampleApplication\obj\Debug\WpfSampleApplication.csproj.GenerateResource.Cache
+C:\Users\sudhanshu_mathur01\documents\visual studio 2012\Projects\WpfSampleApplication\WpfSampleApplication\obj\Debug\WpfSampleApplication.exe
+C:\Users\sudhanshu_mathur01\documents\visual studio 2012\Projects\WpfSampleApplication\WpfSampleApplication\obj\Debug\WpfSampleApplication.pdb
+D:\WpfSampleApplication\WpfSampleApplication\WpfSampleApplication\bin\Debug\WpfSampleApplication.exe.config
+D:\WpfSampleApplication\WpfSampleApplication\WpfSampleApplication\obj\Debug\WpfSampleApplication.exe
+D:\WpfSampleApplication\WpfSampleApplication\WpfSampleApplication\obj\Debug\WpfSampleApplication.pdb

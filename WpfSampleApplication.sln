@@ -1,0 +1,26 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2012
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WpfSampleApplication", "WpfSampleApplication\WpfSampleApplication.csproj", "{CCC397F0-329A-46EC-9024-B816668468E6}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TestSampleApplication", "TestSampleApplication\TestSampleApplication.csproj", "{95552E2C-E315-4280-9316-A0A0010E6A68}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{CCC397F0-329A-46EC-9024-B816668468E6}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{CCC397F0-329A-46EC-9024-B816668468E6}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{CCC397F0-329A-46EC-9024-B816668468E6}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{CCC397F0-329A-46EC-9024-B816668468E6}.Release|Any CPU.Build.0 = Release|Any CPU
+		{95552E2C-E315-4280-9316-A0A0010E6A68}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{95552E2C-E315-4280-9316-A0A0010E6A68}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{95552E2C-E315-4280-9316-A0A0010E6A68}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{95552E2C-E315-4280-9316-A0A0010E6A68}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
