@@ -13,6 +13,8 @@ namespace TestSampleApplication
         {
             try
             {
+
+
                 WpfSampleApplication.MainWindow mainWindow = new MainWindow();
                 List<double> empBSalaryList = new List<double>() { 800, 1200, 2500 };
                 foreach (double empBSalary in empBSalaryList)
