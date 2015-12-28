@@ -20,6 +20,7 @@ namespace TestSampleApplication
                     double basicActual = bLogicObj.GetEmpBasicSalary(empDept);
                     double basicExpected = this.GetEmpBasicSalary(empDept);
                     Assert.AreEqual(basicExpected, basicActual, "The basic salary is not as expected.");
+
                 }
             }
             catch (Exception ex)
