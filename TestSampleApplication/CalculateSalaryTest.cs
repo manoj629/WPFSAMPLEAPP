@@ -1,23 +1,23 @@
 ﻿using System;
-using Microsoft.VisualStudio.TestTools.UnitTesting;
 using WpfSampleApplication;
 using System.Collections.Generic;
+using NUnit.Framework;
 
 namespace TestSampleApplication
 {
-    [TestClass]
+    [TestFixture]
     public class CalculateSalaryTest
     {
-        [TestMethod]
+        [TestCase]
         public void CalculateSalaryTestMethod()
         {
             try
             {
-                WpfSampleApplication.MainWindow mainWindow = new MainWindow();
+                BusinessLogic bLogicObj = new BusinessLogic();
                 List<double> empBSalaryList = new List<double>() { 800, 1200, 2500 };
                 foreach (double empBSalary in empBSalaryList)
                 {
-                    double grossActual = mainWindow.CalGrossSalary(empBSalary);
+                    double grossActual = bLogicObj.CalGrossSalary(empBSalary);
                     double grossExpected = this.CalGrossSalary(empBSalary);
                     Assert.AreEqual(grossExpected, grossActual, "The gross salary is not as expected.");
                 }

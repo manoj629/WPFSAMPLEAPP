@@ -48,31 +48,10 @@ namespace WpfSampleApplication
         {            
             if (BSalaryTextBox.Text != "")
             {
-                double gross = CalGrossSalary(Convert.ToDouble(BSalaryTextBox.Text));
+                BusinessLogic bLogicObj = new BusinessLogic();
+                double gross = bLogicObj.CalGrossSalary(Convert.ToDouble(BSalaryTextBox.Text));
                 GrossSalaryTextBox.Text = gross.ToString();
             }
-        }
-
-        public double CalGrossSalary(double bSalary)
-        {
-            double grossSalary = 0.0;
-            double hraFactor;
-            double daFactor;
-            if (bSalary > 1000)
-            {
-                hraFactor = 0.2;
-                daFactor = 0.4;
-            }
-            else
-            {
-                hraFactor = 0.3;
-                daFactor = 0.5;
-            }
-            double hra = hraFactor * bSalary;
-            double da = daFactor * bSalary;
-
-            grossSalary = hra + da + bSalary;
-            return grossSalary;
         }
 
         public void CloseWindow(object sender, RoutedEventArgs e)
@@ -85,8 +64,9 @@ namespace WpfSampleApplication
             EmployeeDetails selectedEmp = EmpComboBox.SelectedItem as EmployeeDetails;
             if (selectedEmp != null)
             {
+                BusinessLogic bLogicObj = new BusinessLogic();
                 DepartmentTextBox.Text = GetEmpDepartment(selectedEmp);
-                BSalaryTextBox.Text = GetEmpBasicSalary(selectedEmp.Department).ToString();
+                BSalaryTextBox.Text = bLogicObj.GetEmpBasicSalary(selectedEmp.Department).ToString();
             }
         }
 
@@ -95,15 +75,6 @@ namespace WpfSampleApplication
             return emp.Department;
         }
 
-        public double GetEmpBasicSalary(string dept)
-        {
-            if (dept == "IT")
-                return 1000.0;
-            else if (dept == "Account")
-                return 500;
-            else
-                return 2000;
-        }
 
         private void EmpComboBox_SelectionChanged_1(object sender, SelectionChangedEventArgs e)
         {

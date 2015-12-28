@@ -14,3 +14,15 @@ C:\Users\sudhanshu_mathur01\documents\visual studio 2012\Projects\WpfSampleAppli
 D:\WpfSampleApplication\WpfSampleApplication\WpfSampleApplication\bin\Debug\WpfSampleApplication.exe.config
 D:\WpfSampleApplication\WpfSampleApplication\WpfSampleApplication\obj\Debug\WpfSampleApplication.exe
 D:\WpfSampleApplication\WpfSampleApplication\WpfSampleApplication\obj\Debug\WpfSampleApplication.pdb
+D:\WpfSampleApplication\WpfSampleApplication\WpfSampleApplication\bin\Debug\WpfSampleApplication.exe
+D:\WpfSampleApplication\WpfSampleApplication\WpfSampleApplication\bin\Debug\WpfSampleApplication.pdb
+D:\WpfSampleApplication\WpfSampleApplication\WpfSampleApplication\obj\Debug\WpfSampleApplication.csprojResolveAssemblyReference.cache
+D:\WpfSampleApplication\WpfSampleApplication\WpfSampleApplication\obj\Debug\MainWindow.baml
+D:\WpfSampleApplication\WpfSampleApplication\WpfSampleApplication\obj\Debug\MainWindow.g.cs
+D:\WpfSampleApplication\WpfSampleApplication\WpfSampleApplication\obj\Debug\App.g.cs
+D:\WpfSampleApplication\WpfSampleApplication\WpfSampleApplication\obj\Debug\WpfSampleApplication_MarkupCompile.cache
+D:\WpfSampleApplication\WpfSampleApplication\WpfSampleApplication\obj\Debug\WpfSampleApplication.g.resources
+D:\WpfSampleApplication\WpfSampleApplication\WpfSampleApplication\obj\Debug\WpfSampleApplication.Properties.Resources.resources
+D:\WpfSampleApplication\WpfSampleApplication\WpfSampleApplication\obj\Debug\WpfSampleApplication.csproj.GenerateResource.Cache
+D:\WpfSampleApplication\WpfSampleApplication\WpfSampleApplication\bin\Debug\nunit.framework.dll
+D:\WpfSampleApplication\WpfSampleApplication\WpfSampleApplication\bin\Debug\nunit.framework.xml

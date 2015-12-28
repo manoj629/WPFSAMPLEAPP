@@ -5,3 +5,12 @@ C:\Users\sudhanshu_mathur01\documents\visual studio 2012\Projects\WpfSampleAppli
 C:\Users\sudhanshu_mathur01\documents\visual studio 2012\Projects\WpfSampleApplication\TestSampleApplication\bin\Debug\WpfSampleApplication.pdb
 C:\Users\sudhanshu_mathur01\documents\visual studio 2012\Projects\WpfSampleApplication\TestSampleApplication\obj\Debug\TestSampleApplication.dll
 C:\Users\sudhanshu_mathur01\documents\visual studio 2012\Projects\WpfSampleApplication\TestSampleApplication\obj\Debug\TestSampleApplication.pdb
+D:\WpfSampleApplication\WpfSampleApplication\TestSampleApplication\bin\Debug\TestSampleApplication.dll
+D:\WpfSampleApplication\WpfSampleApplication\TestSampleApplication\bin\Debug\TestSampleApplication.pdb
+D:\WpfSampleApplication\WpfSampleApplication\TestSampleApplication\bin\Debug\nunit.framework.dll
+D:\WpfSampleApplication\WpfSampleApplication\TestSampleApplication\bin\Debug\WpfSampleApplication.exe
+D:\WpfSampleApplication\WpfSampleApplication\TestSampleApplication\bin\Debug\WpfSampleApplication.pdb
+D:\WpfSampleApplication\WpfSampleApplication\TestSampleApplication\bin\Debug\nunit.framework.xml
+D:\WpfSampleApplication\WpfSampleApplication\TestSampleApplication\obj\Debug\TestSampleApplication.csprojResolveAssemblyReference.cache
+D:\WpfSampleApplication\WpfSampleApplication\TestSampleApplication\obj\Debug\TestSampleApplication.dll
+D:\WpfSampleApplication\WpfSampleApplication\TestSampleApplication\obj\Debug\TestSampleApplication.pdb
